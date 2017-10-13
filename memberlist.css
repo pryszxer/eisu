@@ -1,0 +1,24 @@
+.bmi_law {
+    color: #00ff00;
+}
+
+.bmi_normal {
+    color: #0000ff;
+}
+
+.bmi_high1 {
+    color: #00aaff;
+}
+
+.bmi_high2 {
+    color: #ffff00;
+}
+
+.bmi_high3 {
+    color* #ff00bb;
+}
+
+.bmi_high4 {
+    color: #ff0000;
+}
+
